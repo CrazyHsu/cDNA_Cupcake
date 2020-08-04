@@ -58,6 +58,7 @@ setup(
                'cupcake2/tofu2/run_IceArrow2.py',
                'cupcake2/io/SeqSplitter.py',
                'cupcake2/tofu2/picking_up_ice2.py',
+               'phasing/utils/select_loci_to_phase.py',
                'phasing/create_fake_genome.py',
                'phasing/run_phaser.py'
                ],
